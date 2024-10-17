@@ -1,0 +1,12 @@
+main: me.squidxtv.ExampleFrameUI
+name: ExampleFrameUI
+version: 1.0
+api-version: 1.21
+author: SquidXTV
+prefix: ExampleFrameUI
+depend:
+  - FrameUI
+commands:
+  screen:
+    description: Spawns an example screen
+    usage: /<command> [spawn|clear] [width] [height] [direction]
