@@ -19,7 +19,8 @@ Players can interact with the screen in two ways:
 - **Clicking:** When a player clicks on the screen, the clicked pixel will change from black to white, visually marking the interaction.
 - **Scrolling:** Players can scroll up or down on the screen, shifting the entire image vertically in the direction of the scroll.
 
-### Showcase
+### [Showcase Video](https://youtu.be/2skIM_jczg8)
+[![Showcase](https://img.youtube.com/vi/2skIM_jczg8/maxresdefault.jpg)](https://youtu.be/2skIM_jczg8)
 
 ### Code
 The following method is responsible for spawning and defining the screen with the desired functionality:
